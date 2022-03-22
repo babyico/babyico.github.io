@@ -1,7 +1,7 @@
 
     var rev = "fwd";
     function titlebar(val){
-        var msg  = "Iconical San | Social Links | Full Website Coming Soon by Iconical San";
+        var msg  = "Game - Tower Blocks by Iconical";
         var res = " ";
         var speed = 100;
         var pos = val;
