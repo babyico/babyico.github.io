@@ -330,7 +330,7 @@ body {
 }
 
 .card:hover {
-  border: 1px solid rgb(49, 91, 250);
+  border: 1px solid rgb(255, 20, 20);
   cursor: pointer;
   transform: scale(1.1);
 }
